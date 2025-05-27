@@ -11,9 +11,6 @@ Full-stack web developer with a diverse skill set and a passion for creating dyn
 * ✉️  You can contact me at [norman.lewis089@gmail.com]
 * 🤝  I'm open to collaborating on Open source and intresting projects
 
-<a href="https://www.twitter.com/chapagainashik" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/chapagainashik?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
