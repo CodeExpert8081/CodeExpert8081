@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Munib Selimovic
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================
 
 Full Stack Web Devloper
@@ -7,8 +7,8 @@ Full Stack Web Devloper
 Full-stack web developer with a diverse skill set and a passion for creating dynamic and scalable applications. Proficient in the MERN stack (MongoDB, Express, React, and Node.js), Laravel, Django, FastAPI, Next.js, Angular, and web scraping. Experienced in building responsive and user-friendly websites and interfaces, as well as optimizing performance and security. Always eager to learn and explore new technologies
 
 * 🌍  I'm based in Hong Kong
-* 🖥️  See my portfolio at [Portfolio]([https://normanlewis1223.github.io/my-portfilio](https://normanlewis1223.github.io/my-portfilio/)
-* ✉️  You can contact me at [norman.lewis089@gmail.com]
+* 🖥️  See my portfolio at [Portfolio]([https://CodeMaster1223.github.io/my-portfilio](https://normanlewis1223.github.io/my-portfilio/)
+* ✉️  You can contact me at [code.master961223@gmail.com]
 * 🤝  I'm open to collaborating on Open source and intresting projects
 
 
