@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================
 
-Full Stack Web Devloper
+Senior Software Developer
 -----------------------
 
 Full-stack web developer with a diverse skill set and a passion for creating dynamic and scalable applications. Proficient in the MERN stack (MongoDB, Express, React, and Node.js), Laravel, Django, FastAPI, Next.js, Angular, and web scraping. Experienced in building responsive and user-friendly websites and interfaces, as well as optimizing performance and security. Always eager to learn and explore new technologies
