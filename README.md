@@ -5,7 +5,7 @@ I am Code Master
 Senior Software Developer
 -----------------------
 
-Full-stack web developer with a diverse skill set and a passion for creating dynamic and scalable applications. Proficient in the MERN stack (MongoDB, Express, React, and Node.js), Laravel, Django, FastAPI, Next.js, Angular, and web scraping. Experienced in building responsive and user-friendly websites and interfaces, as well as optimizing performance and security. Always eager to learn and explore new technologies
+Specialized in building modern content management systems with React/Next.js and cross-platform mobile applications using Flutter. Experienced in developing seamless integrations between Flutter frontends and robust backends with Node.js, Laravel, and FastAPI. Skilled in creating dynamic, responsive, and high-performance web and mobile solutions with a strong focus on user experience and scalable architecture. Passionate about full-stack development and exploring new tools to deliver end-to-end digital products.
 
 * 🤝  I'm open to collaborating on Open source and intresting projects
 
@@ -54,7 +54,7 @@ Full-stack web developer with a diverse skill set and a passion for creating dyn
 			<img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="50" height="50" /><br> Dart 
 		</td>  
 		<td align="center" width="96">  
-			<img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" /><br> CSS 
+			<img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="50" height="50" /><br> WordPress 
 		</td>  
 		<td align="center" width="96">  
 			<img src="https://skillicons.dev/icons?i=vue" alt="VueJs" width="50" height="50" /><br> VueJs 
@@ -83,7 +83,7 @@ Full-stack web developer with a diverse skill set and a passion for creating dyn
 			<img src="https://skillicons.dev/icons?i=apollo" alt="Apollo" width="50" height="50" /><br> Apollo 
 		</td>  
 		<td align="center" width="96">  
-			<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50" height="50" /><br> Kubernetes 
+			<img src="https://skillicons.dev/icons?i=shopify" alt="Shopify" width="50" height="50" /><br> Shopify 
 		</td>  
 		<td align="center" width="96">  
 			<img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="50" height="50" /><br> Nginx 
