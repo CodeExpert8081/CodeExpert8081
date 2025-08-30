@@ -83,7 +83,7 @@ Specialized in building modern content management systems with React/Next.js and
 			<img src="https://skillicons.dev/icons?i=apollo" alt="Apollo" width="50" height="50" /><br> Apollo 
 		</td>  
 		<td align="center" width="96">  
-			<img src="https://www.flaticon.com/free-icon/social_14063185" alt="Shopify" width="50" height="50" /><br> Shopify 
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdAaejIjgZRTF6uwA7wrbhjG3bCjQ1j-IC3YN1ZHclutCewNawoZH0nQIRfwYSmKqAAQA&usqp=CAU" alt="Shopify" width="50" height="50" /><br> Shopify 
 		</td>  
 		<td align="center" width="96">  
 			<img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="50" height="50" /><br> Nginx 
