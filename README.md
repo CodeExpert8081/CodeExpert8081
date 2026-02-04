@@ -45,6 +45,12 @@ Specialized in building modern content management systems with React/Next.js and
 		</td>  
 	</tr>  
 	<tr>  
+		<td align="center" width="96">
+		    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50" /><br> TensorFlow
+		</td>		
+		<td align="center" width="96">
+		    <img src="https://www.svgrepo.com/show/340628/machine-learning-model.svg" alt="LLM" width="50" height="50" /><br> LLM
+		</td>
 		<td align="center" width="96">  
 			<img src="https://skillicons.dev/icons?i=express" alt="ExpressJS" width="50" height="50" /><br> ExpressJS 
 		</td>  
@@ -65,15 +71,15 @@ Specialized in building modern content management systems with React/Next.js and
 		</td>  
 		<td align="center" width="96">  
 			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdAaejIjgZRTF6uwA7wrbhjG3bCjQ1j-IC3YN1ZHclutCewNawoZH0nQIRfwYSmKqAAQA&usqp=CAU" alt="Shopify" width="50" height="50" /><br> Shopify 
-		</td>  
+		</td>  		
+		</tr>  
+		<tr>
 		<td align="center" width="96">  
 			<img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="50" height="50" /><br> Nginx 
 		</td>  
 		<td align="center" width="96">  
 			<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" /><br> MongoDB 
 		</td>  
-		</tr>  
-		<tr>
 		<td align="center" width="96">  
 			<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" /><br> AWS 
 		</td>  
@@ -82,13 +88,7 @@ Specialized in building modern content management systems with React/Next.js and
 		</td>  
 		<td align="center" width="96">  
 			<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" /><br> Docker 
-		</td> 
-		<td align="center" width="96">
-		    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/TensorFlow_logo.svg/640px-TensorFlow_logo.svg.png" alt="TensorFlow" width="50" height="50" /><br> TensorFlow
-		</td>		
-		<td align="center" width="96">
-		    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_of_Language_Model.svg" alt="LLM" width="50" height="50" /><br> LLM
-		</td>
+		</td> 		
 		<td align="center" width="96">  
 			<img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="50" height="50" /><br> Jenkins 
 		</td>  
