@@ -83,6 +83,12 @@ Specialized in building modern content management systems with React/Next.js and
 		<td align="center" width="96">  
 			<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" /><br> Docker 
 		</td> 
+		<td align="center" width="96">
+		    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/TensorFlow_logo.svg/640px-TensorFlow_logo.svg.png" alt="TensorFlow" width="50" height="50" /><br> TensorFlow
+		</td>		
+		<td align="center" width="96">
+		    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_of_Language_Model.svg" alt="LLM" width="50" height="50" /><br> LLM
+		</td>
 		<td align="center" width="96">  
 			<img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="50" height="50" /><br> Jenkins 
 		</td>  
