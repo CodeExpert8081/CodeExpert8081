@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-I am Code Expert
+I am Full Stack AI/ML Engineer
 =======================================================================================================================================
 
-Senior Software Developer
+Web & Mobile Applications | AI/ML & LLM Integration Expert
 -----------------------
 
 Specialized in building modern content management systems with React/Next.js and cross-platform mobile applications using Flutter. Experienced in developing seamless integrations between Flutter frontends and robust backends with Node.js, Laravel, and FastAPI. Skilled in creating dynamic, responsive, and high-performance web and mobile solutions with a strong focus on user experience and scalable architecture. Passionate about full-stack development and exploring new tools to deliver end-to-end digital products.
